@@ -2,7 +2,7 @@
  * Project Name:dt59lesson
  * File Name:Corgi.java
  * Package Name:chapter20171221
- * Date:2017年12月24日下午10:50:40
+ * Date:2017年12月24日下午10:51:55
  * Copyright (c) 2017, bluemobi All Rights Reserved.
  */
 
@@ -10,7 +10,7 @@ package chapter20171221;
 
 /**
  * Description: <br/>
- * Date: 2017年12月24日 下午10:50:40 <br/>
+ * Date: 2017年12月24日 下午10:51:55 <br/>
  * 
  * @author chaos
  * @version
