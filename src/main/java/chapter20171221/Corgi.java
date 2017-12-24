@@ -2,7 +2,7 @@
  * Project Name:dt59lesson
  * File Name:Corgi.java
  * Package Name:chapter20171221
- * Date:2017年12月24日下午12:49:50
+ * Date:2017年12月24日下午10:50:40
  * Copyright (c) 2017, bluemobi All Rights Reserved.
  */
 
@@ -10,7 +10,7 @@ package chapter20171221;
 
 /**
  * Description: <br/>
- * Date: 2017年12月24日 下午12:49:50 <br/>
+ * Date: 2017年12月24日 下午10:50:40 <br/>
  * 
  * @author chaos
  * @version
@@ -40,4 +40,5 @@ public class Corgi {// 柯基 一种狗
     public void sleep() {
         System.out.println("睡觉");
     }
+
 }
